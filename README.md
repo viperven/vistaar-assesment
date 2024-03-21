@@ -3,6 +3,9 @@ This project aims to create a web application with user authentication, displayi
 
 Setup:
 Authentication:
+USE CREDENTIALS : 
+username : admin
+password:123456789
 
 Implement login functionality using OAuth or Firebase.
 Customer Details:
@@ -35,4 +38,6 @@ Ensure MongoDB is configured and running.
 Customize frontend and backend code as needed.
 For further assistance, contact the project team.
 
+Images:
+![image](https://github.com/viperven/vistaar-assesment/assets/127649834/5b7421fc-db23-4b40-bcd9-a2fb49e35152)
 

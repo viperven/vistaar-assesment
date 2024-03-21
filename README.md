@@ -4,7 +4,7 @@ This project aims to create a web application with user authentication, displayi
 Setup:
 Authentication:
 USE CREDENTIALS : 
-username : admin
+username : admin@gmail.com
 password:123456789
 
 Implement login functionality using OAuth or Firebase.
